@@ -14,7 +14,6 @@ Built a user-facing interface that changes responses or triggers system events b
 Applied multi-model analysis using VGG-Face, Facenet, and EmotionNet backends for high prediction accuracy.
 
 🔹 Impact:
-
 Showcased the potential of emotion-aware systems in human-computer interaction, smart environments, and accessibility technologies.
 
 Demonstrated the power of transfer learning and pretrained models to accelerate development and ensure robustness.
