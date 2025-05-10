@@ -21,4 +21,4 @@ Demonstrated the power of transfer learning and pretrained models to accelerate 
 
 Can be extended for applications in mental health monitoring, entertainment personalization, and adaptive user interfaces.
 
-This project exemplifies the practical use of deep learning for facial expression recognition, providing an interactive and intelligent system that responds to human emotion.
+This project exemplifies the practical use of deep learning for facial expression recognition, providing an interactive and intelligent system that responds to human emotion. 
